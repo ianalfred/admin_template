@@ -1,4 +1,4 @@
-export class BerryConfig {
+export class UIConfig {
   static isCollapse_menu: boolean = false;
-  static font_family: string = 'Roboto'; // Roboto, poppins, inter
+  static font_family: string = 'Poppins'; // Roboto, poppins, inter
 }

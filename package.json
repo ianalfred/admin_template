@@ -1,7 +1,7 @@
 {
-  "name": "berry-free-angular-admin-template",
-  "version": "4.1.0",
-  "author": "CodedThemes",
+  "name": "admin-template",
+  "version": "1.0.0",
+  "author": "alfred",
   "license": "MIT",
   "scripts": {
     "ng": "ng",

@@ -253,8 +253,8 @@
       align-items: center;
 
       &:hover {
-        background: shift-color($secondary, $soft-bg-level);
-        color: $secondary;
+        background: shift-color($primary, $soft-bg-level);
+        color: $primary;
       }
     }
 

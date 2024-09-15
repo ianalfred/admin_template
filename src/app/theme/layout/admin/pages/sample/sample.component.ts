@@ -6,10 +6,10 @@ import { Modal } from 'bootstrap';
   selector: 'app-typography',
   standalone: true,
   imports: [],
-  templateUrl: './typography.component.html',
-  styleUrls: ['./typography.component.scss']
+  templateUrl: './sample.component.html',
+  styleUrls: ['./sample.component.scss']
 })
-export default class TypographyComponent {
+export default class SampleComponent {
   @ViewChild('exampleModal') exampleModal: ElementRef;
 
   showModal() {

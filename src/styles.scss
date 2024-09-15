@@ -1,15 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
-/**======================================================================
-=========================================================================
-Template Name: berry - Most Complete Bootstrap Admin Template
-Author: CodedThemes
-Support: https://codedthemes.support-hub.io/
-File: style.css
-=========================================================================
-=================================================================================== */
 
-// main framework
-// main framework
 @import 'node_modules/bootstrap/scss/functions';
 @import 'node_modules/bootstrap/scss/variables';
 @import 'node_modules/bootstrap/scss/variables-dark';
@@ -43,3 +33,32 @@ File: style.css
 @import url('scss/fonts/berry/berry-icons.css'); /** custom font icons - berry **/
 @import 'scss/fonts/tabler-icons.min.css';
 @import 'scss/fonts/phosphor/duotone/style.css';
+
+//[part=preset-1] .pc-sidebar .coded-inner-navbar app-nav-item > li.nav-item.active > a, [part=preset-1] .pc-sidebar .coded-inner-navbar app-nav-item > li.nav-item.coded-trigger > a, [part=preset-1] .pc-sidebar .coded-inner-navbar > app-nav-group > app-nav-collapse > li.active > a, [part=preset-1] .pc-sidebar .coded-inner-navbar > app-nav-group > app-nav-collapse > li.coded-trigger > a {
+//  background: #f3e4e7 !important;
+//  color: #C80037 !important;
+//}
+//
+//[part=preset-1] .pc-sidebar .coded-inner-navbar app-nav-item > li.nav-item:hover > a, [part=preset-1] .pc-sidebar .coded-inner-navbar > app-nav-group > app-nav-collapse > li:hover > a {
+//  background: #f3e4e7 !important;
+//}
+//
+//[part=preset-1] .pc-sidebar .coded-inner-navbar .nav-link:hover, [part=preset-1] .pc-sidebar .coded-inner-navbar .nav-link:focus {
+//  color: #C80037 !important;
+//}
+//
+//[part=preset-1] .pc-header .pc-head-link.head-link-secondary {
+//  //background: transparent !important;
+//  color: #C80037 !important;
+//}
+//
+//[part=preset-1] .pc-header .pc-head-link.head-link-secondary > i {
+//  color: #C80037 !important;
+//}
+//[part=preset-1] .pc-header .pc-head-link.head-link-secondary > i:hover {
+//  color: #ffffff !important;
+//}
+//
+//[part=preset-1] .pc-header .pc-head-link.head-link-secondary {
+//  //background: #f3e4e7 !important;
+//}

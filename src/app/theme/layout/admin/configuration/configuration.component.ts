@@ -1,5 +1,5 @@
 import { Component, OnInit, Renderer2 } from '@angular/core';
-import { BerryConfig } from 'src/app/app-config';
+import { UIConfig } from 'src/app/app-config';
 
 @Component({
   selector: 'app-configuration',
@@ -14,7 +14,7 @@ export class ConfigurationComponent implements OnInit {
   constructor(private renderer: Renderer2) {}
 
   ngOnInit(): void {
-    this.setFontFamily = BerryConfig.font_family;
+    this.setFontFamily = UIConfig.font_family;
     this.fontFamily(this.setFontFamily);
   }
 
